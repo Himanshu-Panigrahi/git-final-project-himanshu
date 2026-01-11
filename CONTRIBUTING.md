@@ -1,0 +1,1 @@
+Welcome ! We are glad you want to contribute. To help us maintain quality, please ensure your code follows our style guidelines  and all pull requests include a clear description of the changes. Please report bugs via the Issues tab.
