@@ -5,3 +5,10 @@ Contributing to the Project
 ​Fork the repository.
 ​Create a new branch for your changes.
 ​Submit a pull request with a detailed description of your updates.
+Contributing Guidelines
+​All contributions are welcome, including:
+​Bug reports: Inform us of any issues found.
+​Bug fixes: Submit code to resolve known problems.
+​Documentation improvements: Help us clear up our guides.
+​Enhancements: Propose new features for the script.
+​Ideas: All creative suggestions are welcome.
