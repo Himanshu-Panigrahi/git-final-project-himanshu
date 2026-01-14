@@ -5,3 +5,11 @@ Files Included
 simple-interest.sh
 CONTRIBUTING.md
 LICENSE The Apache License 2.0 for this project.
+Simple Interest Calculator
+​A bash script that calculates simple interest given principal, annual rate of interest and time period in years.
+​Input:
+​p, principal amount
+​t, time period in years
+​r, annual rate of interest
+​Output:
+​simple interest = ptr
